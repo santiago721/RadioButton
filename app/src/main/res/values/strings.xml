@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RadioButton</string>
+    <string name="pirates">pirates</string>
+    <string name="ninjas">ninjas</string>
+    <string name="celular">celular</string>
+    <string name="portatil">portatil</string>
+</resources>
